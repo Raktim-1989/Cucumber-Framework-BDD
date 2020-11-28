@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HPInternetBanking">
+<listeners>
+<listener class-name="cucumberoptions.Listeners"/>
+</listeners>
+  <test name="HPCucumberFramework">
+  <classes>
+  <class name = "cucumberoptions.TestRunner"/>
+  </classes>
+  </test> 
+</suite> 

@@ -1,0 +1,13 @@
+16/Jun/2020 16:06:44,163- Class: User has entered a valid password in the login page
+16/Jun/2020 16:07:02,022- Class: login button is clicked
+16/Jun/2020 16:07:02,186- Class: Console page title is retrived My HPGas | Customer Console
+16/Jun/2020 16:07:02,209- Class: Mechanic page title is retrived My HPGas | Customer Console
+16/Jun/2020 16:07:02,459- Class: MechanicSerice link is clicked on anotehr tab
+16/Jun/2020 16:07:15,265- Class: ChromeBrowser has been initialized
+16/Jun/2020 16:07:29,877- Class: HPGas URL has  been launched
+16/Jun/2020 16:07:35,544- Class: SignIn button is clicked on Securities Verification page
+16/Jun/2020 16:07:35,864- Class: Valid emailID has been entered in the securities verification page
+16/Jun/2020 16:07:44,179- Class: capcha is entered in the panelbox
+16/Jun/2020 16:07:45,706- Class: LoginPage title is retrievedMy HPGas | Login
+16/Jun/2020 16:07:45,943- Class: User has entered a valid password in the login page
+16/Jun/2020 16:08:03,780- Class: login button is clicked

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HPInternetBanking]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="cucumberoptions.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="HPCucumberFramework(failed)" verbose="0">
+    <classes>
+      <class name="cucumberoptions.TestRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- cucumberoptions.TestRunner -->
+    </classes>
+  </test> <!-- HPCucumberFramework(failed) -->
+</suite> <!-- Failed suite [HPInternetBanking] -->
